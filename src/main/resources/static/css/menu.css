@@ -1,0 +1,24 @@
+*{
+box-sizing: border-box;
+margin: 0;
+}
+
+
+header {
+  width: 100vw;
+  margin: 0 auto;
+  background-color: black;
+  padding: 2rem;
+}
+ul {
+  list-style: none;
+
+  justify-content: center;
+  }
+  ul > li {
+  margin-right: 10rem;
+}
+ul > li > a {
+  text-decoration: none;
+  color: white;
+}
